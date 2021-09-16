@@ -1,6 +1,10 @@
 var a = 1;
 var b = 2;
 var c = 2;
-
+var f =4;
+var g =4;
+var i =4;
+var k =4;
+var o =4;
 var d = 2;
 var e = 2;
